@@ -21,6 +21,3 @@ steps:
   displayName: 'Run a multi-line script'
 
 
- task: DotNetCoreCLI@2
-  inputs:
-    command: 'build'
